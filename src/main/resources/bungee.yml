@@ -1,0 +1,8 @@
+name: DominionBan
+version: '${project.version}'
+main: com.unclecole.dominionban.DominionBan
+prefix: DominionBan
+depend: [ Litebans ]
+authors: [ Cole ]
+commands:
+  ban:
